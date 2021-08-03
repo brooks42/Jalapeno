@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/brooks42/jalapeno/issues"
   },
-  "homepage": "https://github.com/brooks42/jalapeno#readme"
+  "homepage": "https://github.com/brooks42/jalapeno#readme",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
 }
