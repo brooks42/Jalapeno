@@ -1,9 +1,9 @@
 import { ColorModeScript } from "@chakra-ui/react"
 import * as React from "react"
 import ReactDOM from "react-dom"
-import { App } from "./App"
-import reportWebVitals from "./reportWebVitals"
-import * as serviceWorker from "./serviceWorker"
+import { App } from "./front-end/App"
+import reportWebVitals from "./front-end/reportWebVitals"
+import * as serviceWorker from "./front-end/serviceWorker"
 
 ReactDOM.render(
   <React.StrictMode>
