@@ -1,3 +1,5 @@
+![Jalapeno banner](/jalapeno/public/banner_logo.png)
+
 # Jalapeno
 
 Automated garden project
